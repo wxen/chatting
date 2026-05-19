@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+dist/
+android/
+*.apk
+*.hprof
+.DS_Store
